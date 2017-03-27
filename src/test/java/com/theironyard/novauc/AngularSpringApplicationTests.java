@@ -59,13 +59,6 @@ public class AngularSpringApplicationTests {
 
 		Assert.assertTrue(users.count() == 1);
 
-
-
-
-
-
-
-
 	}
 
 
